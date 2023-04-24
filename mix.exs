@@ -15,7 +15,7 @@ defmodule NoizuLabsTesting.MixProject do
   # Run "mix help compile.app" to learn about applications.
   def application do
     [
-      applications: [:noizu_labs_testing],
+      #applications: [:noizu_labs_testing],
       extra_applications: [:logger]
     ]
   end
